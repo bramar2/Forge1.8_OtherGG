@@ -1,0 +1,14 @@
+[
+  {
+    "modid": "othergg",
+    "name": "OtherGG",
+    "description": "This mod automatically says GG when a win message pops up on supported servers",
+    "version": "1.7",
+    "mcversion": "1.8",
+    "url": "",
+    "credits": "Sk1er for hypixel, and mineplex regex",
+    "authorList": [
+      "bramar"
+    ]
+  }
+]
